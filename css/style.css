@@ -6,6 +6,4 @@
 .link:hover {
     color: black;
     background-color: gray;
-    text-decoration: line-through;
-    text-decoration: underline;
 }

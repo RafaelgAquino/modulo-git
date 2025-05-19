@@ -1,0 +1,48 @@
+HTML
+p - Parágrafo
+br - ir pra linha de baixo
+pre - parágrafo diferente
+Strong - negrito
+u - underline
+sup - fica em cima igual raiz quadrada
+sub - desce 
+
+ul - unordened list style="list-style-type:none,disc,square"
+ol - ordened list style="1,2,3"
+
+img src= - imagem width= largura // heigth= altura // title= colocar um titulo quando coloca o mouse por cima
+a - âncora a href ="" // download faz download de alguma coisa que colocar // target="_blank" abre em outra aba
+
+table - tabela width largura /// border borda
+tr - linha da tabela 
+td - coluna da tabela
+colspan junta as colunas
+bgcolor - background color
+posso colocar links e imagens
+form - formulário / usa <input type"texto/password/radio/checkbox" name="variavel"/>
+textarea name= - área de texto
+select / <option> - opções de escolha
+radio / usa input - da opção de marcar 1 coisa 
+iframe / scr = - parte de outro site 
+onerror / onmouse / onclick e etc - add uma ação a alguma coisa
+inline CSS (Casos específicos) - style="color:#ffffff;font-size:60px"	dentro da tag
+
+---------------------------------------------------------------------------------------
+
+css
+
+
+body { } // h1{ } // img {  }
+
+.variável - seleciona só 1 elemento (coloca class="variável" no html) ou id="variável" e #variável // recomendado usar uma variável de id só 1 vez no código
+border, width, height, :hover
+
+---------------------------------------------------------------------------------------
+
+git
+
+git status
+git init
+git add
+git log
+gti commit -m "comentário"
