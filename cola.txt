@@ -47,4 +47,8 @@ git add: adicionar novos arquivos (antes de commitar) -A ou . ou nome do arquivo
 git log: ver os commits 
 git commit -m "comentário"
 git branch: mostra todos os branches (o que tiver com * é o que a gente ta)
-git reset -xxxx id do commit: hard - reseta tudo e volta pro commit, soft - volta pro commit antigo, mas com o novo preparado para commitar, mixed- falta add e commitar
+git reset --xxxx id do commit: hard - reseta tudo e volta pro commit, soft - volta pro commit antigo, mas com o novo preparado para commitar, mixed- falta add e commitar
+git branch nome: cria uma nova branch com esse nome
+git checkout nome: vai pra esse branch
+git diff: mostra a diferença do último commit para o estado atual
+git diff --name-only: mostra quais arquivos foram modificados
