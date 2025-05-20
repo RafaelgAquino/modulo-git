@@ -54,3 +54,12 @@ git diff: mostra a diferença do último commit para o estado atual
 git diff --name-only: mostra quais arquivos foram modificados
 git diff nome: mostra só o que foi alterado no arquivo digitado
 git checkout HEAD -- nome: volta pro último commit desse arquivo 
+git remote add origin https://LINKGITHUB: conectar o repositório remoto com o local
+git push -u origin master: origin(nome do local do repositório que vc escolhe)
+git push origin master: atualiza o repositório remoto 
+
+---------------------------------------------------------------------------------------
+
+Terminal
+
+cd .. : volta uma pasta
