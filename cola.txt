@@ -52,3 +52,5 @@ git branch nome: cria uma nova branch com esse nome
 git checkout nome: vai pra esse branch
 git diff: mostra a diferença do último commit para o estado atual
 git diff --name-only: mostra quais arquivos foram modificados
+git diff nome: mostra só o que foi alterado no arquivo digitado
+git checkout HEAD -- nome: volta pro último commit desse arquivo 
